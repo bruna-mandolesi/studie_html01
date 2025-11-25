@@ -1,2 +1,2 @@
-# desafio02
+Meu primeiro desafio de criar um site.
 
